@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+p.whitey {
+  color: white;
+  /* 	This is a comment.
+  		It has multiple lines.
+  		Au revoir!	*/
+}
